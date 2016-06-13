@@ -1,0 +1,28 @@
+name: 'Love, Cash, and Food'
+favicon: null
+layout_spectrum: 0.6573943444527686
+typography_spectrum: 0.6296468938235193
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.566111781867221
+  lightness: 0.9755981259513646
+  saturation: 0.9701931837480515
+  rhythmicContrast: 0.6917967156041414
+purpose: []
